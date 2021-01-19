@@ -1,2 +1,3 @@
 # hello-world
-Starting to expore github
+Starting to explore git hub
+These are first steps I make here
